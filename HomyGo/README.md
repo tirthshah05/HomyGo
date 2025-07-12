@@ -1,2 +1,2 @@
-# staybnb
-Staybnb is Airbnb Clone Designed using HTML CSS JS only by following https://www.youtube.com/@EasyTutorialsVideo tutorial
+# HomyGo
+HomyGo is Airbnb Clone Designed using HTML CSS JS only by following https://www.youtube.com/@EasyTutorialsVideo tutorial
